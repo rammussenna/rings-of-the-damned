@@ -1,4 +1,4 @@
-#  Bosses of **Rings of the Damned**
+# 🤨 Bosses of **Rings of the Damned**
 
 *A comprehensive breakdown of all major bosses encountered across the nine layers of Hell.*
 
@@ -20,7 +20,7 @@ Each boss is designed around its layer’s dominant sin and reflects that in beh
   * Uses illusions to disguise real attacks.
   * The arena shifts with statues that "judge" you.
   * Becomes more aggressive as your sins stack.
-* **Quote**: “To never choose... is still a choice.”
+
 
 ---
 
@@ -38,7 +38,7 @@ Each boss is designed around its layer’s dominant sin and reflects that in beh
 
   * Charm-based mechanics that alter movement.
   * Prioritizes illusion, distraction, and regeneration.
-* **Quote**: “They always come back... even when they know it will kill them.”
+
 
 ---
 
@@ -55,11 +55,11 @@ Each boss is designed around its layer’s dominant sin and reflects that in beh
 
   * Player must destroy stomach cores that open intermittently.
   * Arena fills with bile, slowing movement.
-* **Quote**: “If I cannot be full, then all shall be consumed.”
+
 
 ---
 
-## 4.  **Greed** – *Archon Mammon, Lord of Excess*
+## 4. **Greed** – *Archon Mammon, Lord of Excess*
 
 * **Appearance**: Gilded demon adorned with chains, gold-plated flesh, and hollow eyes that drip molten gold.
 * **Lore**: Mammon was once an angel of structure and trade but fell when he began hoarding worship.
@@ -76,7 +76,7 @@ Each boss is designed around its layer’s dominant sin and reflects that in beh
 
 ---
 
-## 5.  **Wrath** – *Agramor, the Flame-Tethered*
+## 5. ⚡ **Wrath** – *Agramor, the Flame-Tethered*
 
 * **Appearance**: A burning knight wrapped in iron chains and molten plates, missing an arm replaced with a flail.
 * **Lore**: Agramor was a fallen general whose fury consumed entire cities. He now burns forever in his rage.
@@ -89,7 +89,7 @@ Each boss is designed around its layer’s dominant sin and reflects that in beh
 
   * Becomes far more dangerous under 30% HP (50% bonus damage).
   * Fight encourages aggressive parrying.
-* **Quote**: “I do not remember peace… only the heat of vengeance.”
+
 
 ---
 
@@ -106,7 +106,7 @@ Each boss is designed around its layer’s dominant sin and reflects that in beh
 
   * Fight is visual chaos, reading her attacks is harder.
   * Punishes memorization, rewards adaptation.
-* **Quote**: “I burned the truth to write my own.”
+
 
 ---
 
@@ -123,7 +123,7 @@ Each boss is designed around its layer’s dominant sin and reflects that in beh
 
   * Constant HP loss to area bleed.
   * Requires aggressive movement and use of cover.
-* **Quote**: “Pain is the only truth.”
+
 
 ---
 
@@ -140,7 +140,7 @@ Each boss is designed around its layer’s dominant sin and reflects that in beh
 
   * Dynamically learns player attack patterns.
   * Mirrors gear and ring effects in real-time.
-* **Quote**: “Lies are just truths not yet believed.”
+*
 
 ---
 
@@ -157,8 +157,3 @@ Each boss is designed around its layer’s dominant sin and reflects that in beh
 
   * Punishes trust and predictable movement.
   * Fight encourages paranoia.
-* **Quote**: “Even God knew I would betray Him. And still, He let me.”
-
----
-
-Add this file to your repository as `BOSSES.md` or include in your main `README.md` under a separate section titled `Bosses`. Next step suggestions: minibosses per layer, or full dialogue scripts. Ready
