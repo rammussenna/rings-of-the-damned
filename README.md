@@ -17,16 +17,9 @@ Each ring represents a layer of hell, providing buffs and debuffs based on the s
 - Real-time hack-and-slash with weapon combos and ring-powered abilities.
 - Weapons are inspired by biblical relics, angelic tools, and hellish constructs.
 ###  Build Customization
-- Players can equip up to 2 fused rings.
+- Players can equip up to only 1 fused ring.
 - Each ring alters your stats, dialogue options, and how NPCs react to you and what they offer to you.
-- Some fused rings are rare and only unlockable through hidden moral choices or achvievements.
-##  Planned Layers of Hell
-- **Limbo** – Passive eternal waiting
-- **Lust** – Temptation, illusions, charm
-- **Gluttony** – Overconsumption, bloated horrors
-- **Greed** – Hoarding power, betrayal
-- **Wrath** – Rage and loss of control
-- **Heresy**, **Violence**, **Fraud**, **Treachery** – Each with unique environments and boss designs (still planning all of them these are scraps)
+- Some fused rings are rare and only unlockable through achvievements.
 ##  Development Status
 This project is in the **planning/documentation phase**.
 Active focus areas:
