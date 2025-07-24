@@ -68,8 +68,4 @@ A curated list of weapons for **Rings of the Damned**, inspired by biblical lore
 
 ---
 
-✅ **Status:** Finalized weapon list for v1 documentation.
 
-📂 Suggested file path: `docs/weapons.md`
-
-🔗 [Back to Main README](../README.md)
