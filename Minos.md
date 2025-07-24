@@ -35,7 +35,7 @@ Each fusion:
 - Each visit reveals more lore about the hierarchy of Hell, ring origins, and your place in it.
 - Minos remains passive — unless provoked.
 
-### 🔥 Destruction Path (Optional Secret Boss)
+###  Destruction Path (Optional Secret Boss)
 - **Trigger**: Strike the statue of Minos using a fully upgraded Cruciform Blade.
 - **Consequence**: Ring Fusion becomes permanently disabled for the rest of the playthrough.
 - **Boss Fight**: Minos awakens as a **massive marble judge**, changing phases based on each of the 9 Circles of Hell:
@@ -53,7 +53,7 @@ Each fusion:
   - Dialogue and environments shift.
   - Player begins hallucinating prior choices and NPCs.
   - Ending: .......
-## 🔁 Core Gameplay Loop It Adds
+##  Core Gameplay Loop It Adds
 
 - **Risk vs Reward**: Choose long-term utility (Fusion) or ultimate power (Judgment).
 - **Replayability**: Multiple builds and outcomes depending on player choices.
