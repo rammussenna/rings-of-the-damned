@@ -1,4 +1,4 @@
-# 🤨 Bosses of **Rings of the Damned**
+#  Bosses of **Rings of the Damned**
 
 *A comprehensive breakdown of all major bosses encountered across the nine layers of Hell.*
 
@@ -6,7 +6,7 @@ Each boss is designed around its layer’s dominant sin and reflects that in beh
 
 ---
 
-## 1. 🕊️ **Limbo** – *The Hollow King*
+## 1.  **Limbo** – *The Hollow King*
 
 * **Appearance**: A regal, ancient figure clad in broken stone armor and veiled in ethereal fog. His face is featureless, replaced by shifting masks of famous philosophers and poets.
 * **Lore**: Once a noble ruler of a peaceful age, the Hollow King chose eternal indecision over conflict. Limbo became his domain as a result of passivity.
@@ -24,7 +24,7 @@ Each boss is designed around its layer’s dominant sin and reflects that in beh
 
 ---
 
-## 2. 💋 **Lust** – *Valentina, the Siren of Echoes*
+## 2.  **Lust** – *Valentina, the Siren of Echoes*
 
 * **Appearance**: Tall, alluring humanoid with semi-liquid skin that ripples with every movement. Her face constantly morphs into those she once seduced.
 * **Lore**: A spirit cursed to constantly seduce and consume. Her voice causes hallucinations of lovers lost.
@@ -42,7 +42,7 @@ Each boss is designed around its layer’s dominant sin and reflects that in beh
 
 ---
 
-## 3. 🍗 **Gluttony** – *Gorvash, the Maw Eternal*
+## 3.  **Gluttony** – *Gorvash, the Maw Eternal*
 
 * **Appearance**: Massive, obese demon with multiple mouths across his body and stomachs that open into voids.
 * **Lore**: Gorvash devoured every soul he met, even demons. His hunger created a gravitational pull of rot.
@@ -59,7 +59,7 @@ Each boss is designed around its layer’s dominant sin and reflects that in beh
 
 ---
 
-## 4. 💰 **Greed** – *Archon Mammon, Lord of Excess*
+## 4.  **Greed** – *Archon Mammon, Lord of Excess*
 
 * **Appearance**: Gilded demon adorned with chains, gold-plated flesh, and hollow eyes that drip molten gold.
 * **Lore**: Mammon was once an angel of structure and trade but fell when he began hoarding worship.
@@ -76,7 +76,7 @@ Each boss is designed around its layer’s dominant sin and reflects that in beh
 
 ---
 
-## 5. ⚡ **Wrath** – *Agramor, the Flame-Tethered*
+## 5.  **Wrath** – *Agramor, the Flame-Tethered*
 
 * **Appearance**: A burning knight wrapped in iron chains and molten plates, missing an arm replaced with a flail.
 * **Lore**: Agramor was a fallen general whose fury consumed entire cities. He now burns forever in his rage.
@@ -93,7 +93,7 @@ Each boss is designed around its layer’s dominant sin and reflects that in beh
 
 ---
 
-## 6. ⚠️ **Heresy** – *The Red Priestess*
+## 6.  **Heresy** – *The Red Priestess*
 
 * **Appearance**: A burning figure wrapped in scrolls and heretical texts, blindfolded, with a flaming quill for a hand.
 * **Lore**: Once a prophet, she began rewriting divine scripture in her own vision. Now, she writes only in blood.
@@ -110,7 +110,7 @@ Each boss is designed around its layer’s dominant sin and reflects that in beh
 
 ---
 
-## 7. 💥 **Violence** – *Crucior, the Beast of Red Earth*
+## 7.  **Violence** – *Crucior, the Beast of Red Earth*
 
 * **Appearance**: A hulking demon with weapons embedded in its flesh, constantly dripping blood, screaming.
 * **Lore**: Crucior is the manifestation of suffering given form. A former executioner who relished the pain he caused.
@@ -127,7 +127,7 @@ Each boss is designed around its layer’s dominant sin and reflects that in beh
 
 ---
 
-## 8. 🔮 **Fraud** – *Miragio the Deceiver*
+## 8.  **Fraud** – *Miragio the Deceiver*
 
 * **Appearance**: Appears as the player at first. Slowly morphs into grotesque mimic.
 * **Lore**: A master con artist who tricked angels and demons alike.
@@ -144,7 +144,7 @@ Each boss is designed around its layer’s dominant sin and reflects that in beh
 
 ---
 
-## 9. ❄️ **Treachery** – *Judas Reborn, The Betrayer*
+## 9.  **Treachery** – *Judas Reborn, The Betrayer*
 
 * **Appearance**: Cloaked in ice and shadow. Holds a dagger made of shattered oaths. Eyes like frozen tears.
 * **Lore**: Judas ascended as the patron saint of betrayal, his every movement a mockery of loyalty.
