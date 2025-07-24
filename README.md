@@ -27,13 +27,13 @@ Each ring represents a layer of hell, providing buffs and debuffs based on the s
 - **Greed** – Hoarding power, betrayal
 - **Wrath** – Rage and loss of control
 - **Heresy**, **Violence**, **Fraud**, **Treachery** – Each with unique environments and boss designs (still planning all of them these are scraps)
-## 🛠️ Development Status
+##  Development Status
 This project is in the **planning/documentation phase**.
 Active focus areas:
 - Lore writing & ring mechanics  
 - Concept art, soundtrack ideation  
 - Designing unique sin-based enemy behaviors
-## 🔒 License
+##  License
 This project is **not open source**.  
 You may **not** use, copy, redistribute, or modify any part of this game (including its concept, code, story, or assets) **without written permission.**
 For permissions or collaboration inquiries, contact:  
