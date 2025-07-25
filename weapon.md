@@ -25,7 +25,7 @@ A curated list of weapons for **Rings of the Damned**, inspired by biblical lore
 | Sling of David    | Ranged / Precision | Accurate. Headshots do bonus damage. Buffs vs giants/beasts. |
 | Spear of Longinus | Polearm            | Pierces divine/unholy. 30% stun chance.                      |
 | Moses’ Staff      | Magic              | Casts plagues or parts fire. Crowd control magic.            |
-| Jawbone of Samson | Blunt              | High knockback. Scales with fury.                            |
+| Jawbone of Samson | Blunt              | High knockback. Scales when lower hp                         |
 
 ---
 
