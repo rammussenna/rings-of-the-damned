@@ -33,7 +33,7 @@ A curated list of weapons for **Rings of the Damned**, inspired by biblical lore
 
 | Name                 | Type          | Description                                             |
 | -------------------- | ------------- | ------------------------------------------------------- |
-| Crown of Thorns      | Wearable      | HP drains over time. Damage + Healing on kills.         |
+| Crown of Thorns      | Wearable      | HP drains over time. increase damage and mana           |
 | Nails of Crucifixion | Claws / Fist  | High damage. Passive HP decay when equipped or used.    |
 | Shroud of Turin      | Armor / Cloak | One-time resurrection. Increases enemy spawn and aggro. |
 | Ten Commandments     | Throwables    | Explode in holy light. Stun/bind enemies.               |
@@ -46,8 +46,8 @@ A curated list of weapons for **Rings of the Damned**, inspired by biblical lore
 | Circle    | Weapon Concept        | Description                                                            |
 | --------- | --------------------- | ---------------------------------------------------------------------- |
 | Limbo     | Forgotten Blade       | Weak, but immune to debuffs. “Neutral” damage.                         |
-| Lust      | Whip of Desire        | Fast, charming effect. Draws enemy aggro.                              |
-| Gluttony  | Maw Gauntlets         | Restore HP from hits. Slower movement, attack speed, and reduced mana. |
+| Lust      | Whip of Desire        | Fast attack speed, charming effect. Draws enemy aggro.                 |
+| Gluttony  | Maw Gauntlets         | Restore HP from hits and increased HP. Slower movement,attack speed,and reduced mana. |
 | Greed     | Gilded Chainaxe       | Increases drop rates. Shops raise prices. Lowers NPC help chance.      |
 | Wrath     | Bloody Brass Knuckles | Damage increases below 20% HP, weak above it.                          |
 | Heresy    | Blasphemer’s Brand    | Fire rune sword. Damages user but boosts mana regen.                   |
