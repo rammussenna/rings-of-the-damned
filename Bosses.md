@@ -10,7 +10,7 @@
 
   * **Philosopher's Reflection**: Reflects ranged attacks if not timed correctly.
   * **Fog Bind**: Temporarily disables dodging or spells.
-  * **Time Slow**: Occasionally slows time for the player only slowing the movement, doding and attacks.
+  * **Time Slow**: Occasionally slows time for the player only slowing the movement, dodging and attacks.
 * **Fight Mechanics**:
 
   * Uses illusions to disguise real attacks.
