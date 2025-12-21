@@ -1,6 +1,6 @@
 # Main Rings
 
-These are the 9 core rings tied to each of Dante’s Inferno-inspired circles of Hell. Each ring grants the player a powerful blessing themed after the associated sin — but always comes at a cost. These are not optional buffs — they are double-edged, forcing the player to adapt to both power and punishment.
+These are the 9 core rings tied to each of Dante’s Inferno-inspired circles of Hell. Each ring grants the player a powerful blessing themed after the associated sin but always comes at a cost. These are not optional buffs  they are double-edged, forcing the player to adapt to both power and punishment.
 
 ## Overview
 
@@ -28,7 +28,7 @@ These are the 9 core rings tied to each of Dante’s Inferno-inspired circles of
 ## Usage Notes
 
 - These rings are core to the game’s **risk-reward** and **identity customization** system.
-- While players can only equip one at a time, **fusion** mechanics (unlocked in late-game) allow you to merge rings to gain blended effects — at greater cost.
+- While players can only equip one at a time, **fusion** mechanics (unlocked in late-game) allow you to merge rings to gain blended effects at greater cost.
 - Some builds benefit more from specific rings:
   - Tank builds synergize with Gluttony or Violence.
   - Glass-cannon mages may lean into Heresy.
