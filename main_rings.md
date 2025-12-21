@@ -18,7 +18,7 @@ These are the 9 core rings tied to each of Dante’s Inferno-inspired circles of
 | **Ring of Gluttony**| 3rd – Gluttony| Excess           | Kills restore a portion of HP and stamina                      | Increased hunger/thirst depletion rate (if applicable)         |
 | **Ring of Greed**   | 4th – Greed   | Hoarding         | +50% more gold and loot from all sources                       | Merchant/shop prices increase by 25%                           |
 | **Ring of Wrath**   | 5th – Wrath   | Rage             | When under 30% HP, deal +50% more damage                       | Above 30% HP, your defense is reduced by 40%                   |
-| **Ring of Heresy**  | 6th – Heresy  | Rebellion        | 30% faster mana regen and cooldown reduction                   | Max HP is permanently reduced by 50%                           |
+| **Ring of Heresy**  | 6th – Heresy  | Rebellion        | 30% faster mana regen and cooldown reduction                   | Max HP is permanently reduced by 40%                           |
 | **Ring of Violence**| 7th – Violence| Brutality        | +30% melee damage and crit chance                              | Enemies drop less healing and mana restoration items           |
 | **Ring of Fraud**   | 8th – Fraud   | Deception        | Illusions spawn every 10s that copy player attacks (50% dmg)   | Controls randomly invert for 3 seconds after taking damage     |
 | **Ring of Treachery**| 9th – Treachery| Betrayal        | +100% backstab and surprise attack damage                      | Front-facing attacks deal 50% less damage                      |
