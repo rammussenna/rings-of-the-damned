@@ -9,7 +9,7 @@
 ANYTHING RING FUSION IS STILL UNDER WORKS NOT OFFICIAL!
 ##  Overview
 
-Minos serves as the **Ring Fusion Master**, offering players the ability to fuse rings using rare sacrifices. Over time, his dialogue becomes darker, hinting at deeper costs behind tampering with sin. Eventually, players may choose to betray or destroy him — permanently altering game mechanics and endings.
+Minos serves as the **Ring Fusion Master**, offering player the ability to fuse rings using rare sacrifices. Over time, his dialogue becomes darker, hinting at deeper costs behind tampering with sin. Eventually, player may choose to betray or destroy him  permanently altering game mechanics and endings.
 
 ---
 
@@ -18,7 +18,7 @@ Minos serves as the **Ring Fusion Master**, offering players the ability to fuse
 Minos allows ring fusion at his throne using the following cost types:
 - **Items** (rare loot or offerings from Hell)
 - **HP** (permanent max HP sacrifice)
-- **Sin Fragments** (gathered from defeated mini-bosses or corrupted events)
+- **Sin Fragments** (gathered from defeated mini-bosses)
 
 Each fusion:
 - Creates hybrid rings with both buffs and new risks
@@ -33,7 +33,7 @@ Each fusion:
 ### Normal Path
 - Use Minos to access fusion across your playthrough.
 - Each visit reveals more lore about the hierarchy of Hell, ring origins, and your place in it.
-- Minos remains passive — unless provoked.
+- Minos remains passive unless provoked.
 
 ###  Destruction Path (Optional Secret Boss)
 - **Trigger**: Strike the statue of Minos using a fully upgraded Cruciform Blade.
