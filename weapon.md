@@ -8,7 +8,8 @@ A curated list of weapons for **Rings of the Damned**, inspired by biblical lore
 
 | Name                  | Type                  | Description                                                           |
 | --------------------- | --------------------- | --------------------------------------------------------------------- |
-| Ribs Of Adam          | Planting              | Summons human allies, enemies focus on them instead.                  | 
+| SBR       |           | Gun                   | Total of 9 bullets only obtainable after killing each boss (can inta kill all enemies and bosses but requires precise headshot)
+| Ribs Of Adam          | Planting              | Summons human allies, enemies focus on them instead (Achievement-only item).                  | 
 | Sword of Gabriel      | Greatsword            | AOE damage, huge damage but slower attacks.                           |
 | Michael’s Wings       | Equippable            | Increases speed and jump height; reduces mana usage (movement only).  |
 | Trumpet of Judgment   | Blunt / Sonic         | AoE sound-blast. Stuns & debuffs enemies. Cooldown-based.             |
