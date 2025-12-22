@@ -11,6 +11,7 @@
   * **Philosopher's Reflection**: Reflects ranged attacks.
   * **Fog Bind**: Temporarily disables dodging or spells.
   * **Time Slow**: Occasionally slows time for the player only slowing the movement, dodging and attacks.
+  * **Spawns**: Spawns the prev mini bosses (lower hp, basic attacks)
 * **Fight Mechanics**:
 
   * Uses illusions to disguise real attacks.
