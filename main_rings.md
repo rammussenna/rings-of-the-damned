@@ -13,10 +13,10 @@ These are the 9 core rings tied to each of Dante’s Inferno-inspired circles of
 
 | Ring Name           | Circle        | Sin              | Buff (Blessing)                                               | Debuff (Curse)                                                |
 |---------------------|---------------|------------------|----------------------------------------------------------------|----------------------------------------------------------------|
-| **Ring of Limbo**   | 1st – Limbo   | Apathy / Absence | Immune to fear, stun, and confusion effects                    | XP and item gain from enemies reduced by 50%                   |
+| **Ring of Limbo**   | 1st – Limbo   | Apathy / Absence | Immune to fear, stun, and confusion effects                    | XP and item gain from enemies reduced by 30%                   |
 | **Ring of Lust**    | 2nd – Lust    | Obsession        | +20% attack speed and dash distance                            | Enemies detect you from farther away                           |
 | **Ring of Gluttony**| 3rd – Gluttony| Excess           | Kills restore a portion of HP and stamina                      | Increased hunger/thirst depletion rate (if applicable)         |
-| **Ring of Greed**   | 4th – Greed   | Hoarding         | +50% more gold and loot from all sources                       | Merchant/shop prices increase by 25%                           |
+| **Ring of Greed**   | 4th – Greed   | Hoarding         | +30% more loot from all sources                       | Merchant/shop prices increase by 20%                           |
 | **Ring of Wrath**   | 5th – Wrath   | Rage             | When under 30% HP, deal +50% more damage                       | Above 30% HP, your defense is reduced by 40%                   |
 | **Ring of Heresy**  | 6th – Heresy  | Rebellion        | 30% faster mana regen and cooldown reduction                   | Max HP is permanently reduced by 40%                           |
 | **Ring of Violence**| 7th – Violence| Brutality        | +30% melee damage and crit chance                              | Enemies drop less healing and mana restoration items           |
