@@ -21,8 +21,9 @@
 
 * **Appearance**: Tall, alluring humanoid with semi-liquid skin that ripples with every movement.
 * **Lore**: A spirit cursed to constantly seduce and consume. Her voice causes hallucinations of lovers lost.
+* **passive**: Player camera will always be locked on valentina (may hinder movement combos)
 * **Abilities**:
-
+  * **Blinding**: Valentina will fire a projectile that covers the players screen (dodgeable)
   * **Siren's Echo**: Fires charm projectiles that cause player to not be able to move for 2 seconds
   * **Mirage Split**: Splits into three mirages. All must be killed quickly or she regenerates health.
   * **Temptation Bloom**: Area-of-effect pulse that lowers player defenses temporarily (cannot be dodged).
@@ -37,7 +38,7 @@
 * **Appearance**: Massive, obese demon with multiple mouths across his body and stomachs that open into bloody voids.
 * **Lore**: Gorvash devoured every soul he met, even demons. His hunger created a gravitational pull of rot.
 * **Abilities**:
-
+* **
   * **Devour Pulse**: forcefully Draws the player inward, dealing damage if close.
   * **Stomach Burst**: Shoots acidic bile and chewed corpses causing area of effect damage.
   * **Cannibal Regeneration**: Eats summoned mobs to regain health.
@@ -51,7 +52,7 @@
 * **Appearance**: Gilded demon adorned with chains, gold-plated flesh, and hollow eyes that drip molten gold.
 * **Lore**: Mammon was once an angel of structure and trade but fell when he began hoarding worship.
 * **Abilities**:
-
+* **GREEDINESS**:Archon, summons golden ingots, which over time lures in minions, causing massive crowds (and may spawn in pass mini bosses 1/178)
   * **Golden Hoard**: Summons gold shields to block attacks.
   * **Auction of Souls**: Debuff based on current item count; more items = more punishment/more damage.
   * **Bribe Reality**: Temporarily becomes invulnerable by "paying off" the world.
@@ -67,11 +68,11 @@
 * **Abilities**:
 
   * **Chain Smash**: Mid-range flail slam that burns causes area of effect damage that lasts for 3 seconds on the ground.
-  * **Rage Flood**: Gains attack speed and movement under 60% HP.
-  * **Molten Prison**: has a chance to lock the player if not dodged, locking them for 5 seconds or more.
+  * **Rage Flood**: Gains attack speed and movement under 50% HP.
+  * **Molten Prison**: has a chance to lock the player if not dodged, locking them for 5 seconds or more while also doing damage over time.
 * **Fight Mechanics**:
 
-  * Becomes far more dangerous under 50% HP (30% bonus damage).
+  * Becomes far more dangerous under 50% HP (35% bonus damage).
   * Fight encourages aggressive parrying and defensive attacking.
 
 ## 6.  **Heresy**  *The Red Priestess*
@@ -81,7 +82,7 @@
 * **Abilities**:
 
   * **Scripture Rewrite**: Inverts player controls temporarily for 6 seconds if hit.
-  * **Hellfire Veil**: Covers arena in blasphemous fire causing damage overtime if stepped in.
+  * **Hellfire Veil**: Covers arena in fire causing damage overtime if stepped in.
   * **Mark of Blasphemy**: Reduces player HP by 50% and armor by 20% for 4 seconds if hit.
 * **Fight Mechanics**:
 
@@ -99,7 +100,7 @@
   * **Rage Chains**: Slams chained corpses at the player.
 * **Fight Mechanics**:
 
-  * Constant HP loss to area bleed.
+  * slow Constant HP loss to area bleed.
   * Requires aggressive movement and use of parry.
 
 ## 8.  **Fraud**  *Miragio the Deceiver*
