@@ -1,4 +1,4 @@
-#Bosses of **Rings of the Damned**
+ #Bosses of **Rings of the Damned**
 
 *A comprehensive breakdown of all major bosses encountered across the nine layers of Hell.*
 
@@ -10,7 +10,7 @@
 
   * **Philosopher's Reflection**: Reflects ranged attacks.
   * **Fog Bind**: Temporarily disables dodging or spells.
-  * **Time Slow**: Occasionally slows time for the player only slowing the movement, dodging and attacks.
+  * **Time Slow**: Occasionally slows time for the player only slowing the movement,
   * **Spawns**: Spawns the prev mini bosses (lower hp, basic attacks)
 * **Fight Mechanics**:
 
@@ -27,7 +27,7 @@
   * **Siren's Echo**: Fires charm projectiles that cause player to not be able to move for 2 seconds
   * **Mirage Split**: Splits into three mirages. All must be killed quickly or she regenerates health.
   * **Temptation Bloom**: Area-of-effect pulse that lowers player defenses temporarily (cannot be dodged).
-  * **Lustbound Spawn**: At 50% HP, summons other Lust-based enemies. She can kill them herself to absorb their energy gaining hp.
+  * **Lustbound Spawn**: At 30% HP, summons other Lust-based enemies. She can kill them herself to absorb their energy gaining hp.
 * **Fight Mechanics**:
 
   * Charm-based mechanics that alter movement.
