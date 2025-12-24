@@ -65,12 +65,12 @@ Rings drastically modify how the player engages in combat.
 
 ##  Execution System
 
-- **Trigger**: Enemy below 15% HP starts to flash
+- **Trigger**: Enemy below 10% HP and for bosses at 5% starts to flash
 - **Effect**:
   - Execute with melee to restore HP or Blood Gauge
   - Ring modifiers alter execution animation, effect, or bonus
 - **Combo Bonus**:
-  - Chaining 3+ executions within 10s grants temporary invulnerability for 1.5s
+  - Chaining 5+ executions within 15s grants temporary invulnerability for 1.5s
 
 ---
 
@@ -94,7 +94,7 @@ Enemies are built around **aggressive pressure** and **player reaction**.
 
 ###  Adaptive AI (Later Layers)
 
-- From Layer 5 (Wrath) onward, enemies:
+- From Layer 4 (GREED) onward, enemies:
   - React to your equipped rings
   - Mimic your last ability used (Bosses/ mini bosses only)
  
