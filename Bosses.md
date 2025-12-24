@@ -21,7 +21,9 @@
 
 * **Appearance**: Tall, alluring humanoid with semi-liquid skin that ripples with every movement.
 * **Lore**: A spirit cursed to constantly seduce and consume. Her voice causes hallucinations of lovers lost.
-* **passive**: Player camera will always be locked on valentina (may hinder movement combos)
+* **passive**: Player camera will always be locked on valentina (may hinder movement combos) (base passive for easy and normal)
+* **2nd Chance**: Valentina has a chance to revive the player (1/200) but valentina will get a permanent buff (20% hp 30% illusion damage/heal) (only applicable in hard or hell difficulty)
+
 * **Abilities**:
   * **Blinding**: Valentina will fire a projectile that covers the players screen (dodgeable)
   * **Siren's Echo**: Fires charm projectiles that cause player to not be able to move for 2 seconds
@@ -40,7 +42,7 @@
 * **Abilities**:
 * **
   * **Devour Pulse**: forcefully Draws the player inward, dealing damage if close.
-  * **Stomach Burst**: Shoots acidic bile and chewed corpses causing area of effect damage.
+  * **Stomach Burst**: Shoots acidic bile and chewed corpses causing area of effect damage lasting for 5 seconds.
   * **Cannibal Regeneration**: Eats summoned mobs to regain health.
 * **Fight Mechanics**:
 
@@ -52,7 +54,7 @@
 * **Appearance**: Gilded demon adorned with chains, gold-plated flesh, and hollow eyes that drip molten gold.
 * **Lore**: Mammon was once an angel of structure and trade but fell when he began hoarding worship.
 * **Abilities**:
-* **GREEDINESS**:Archon, summons golden ingots, which over time lures in minions, causing massive crowds (and may spawn in pass mini bosses 1/178)
+* **GREEDINESS**:Archon, summons golden ingots, which over time lures in minions, causing massive crowds (and may spawn in pass mini bosses 1/256)
   * **Golden Hoard**: Summons gold shields to block attacks.
   * **Auction of Souls**: Debuff based on current item count; more items = more punishment/more damage.
   * **Bribe Reality**: Temporarily becomes invulnerable by "paying off" the world.
@@ -60,7 +62,7 @@
 
   * Richer players are punished more.
   * Loot is bait, grabbing it powers him up unless cleansed first via holy water.
-
+  * the more gold you have (strictly in greed) the higher the attributions
 ## 5. **Wrath**  *Agramor, the Flame-Tethered*
 
 * **Appearance**: A burning knight wrapped in iron chains and molten plates, missing an arm replaced with a flail.
@@ -75,13 +77,13 @@
   * Becomes far more dangerous under 50% HP (35% bonus damage).
   * Fight encourages aggressive parrying and defensive attacking.
 
-## 6.  **Heresy**  *The Red Priestess*
+## 6.  **Heresy**  *Rhea,The Red Priestess*
 
 * **Appearance**: A burning figure wrapped in scrolls and heretical texts, blindfolded, with a flaming sword for a hand.
 * **Lore**: Once a prophet, she began rewriting divine scripture in her own vision. Now, she writes only in blood.
 * **Abilities**:
 
-  * **Scripture Rewrite**: Inverts player controls temporarily for 6 seconds if hit.
+  * **Scripture Rewrite**: randomizes player controls temporarily for 6 seconds if hit.
   * **Hellfire Veil**: Covers arena in fire causing damage overtime if stepped in.
   * **Mark of Blasphemy**: Reduces player HP by 50% and armor by 20% for 4 seconds if hit.
 * **Fight Mechanics**:
@@ -93,11 +95,15 @@
 
 * **Appearance**: A hulking demon with weapons embedded in its flesh, constantly dripping blood, screaming.
 * **Lore**: Crucior is the manifestation of suffering given form. A former executioner who relished the pain he caused.
-* **Abilities**:
+* **Passives** 
+* **Past Victims**: If player dies crucior will spawn a mob based on how many times the player died and may have a chance to have a mob similar to the player 1/189 (base passive for easy and normal)
+* **Lives of the suffering souls**: Crucior has a set of 30 minions the more times you die (from the previous rings) Five more minions gets added to the crowd, It also buffs crucior's Defense by 10% and attack speed by 15% (only applicable in hard and hell difficulty)
 
-  * **Blood Cascade**: Area-wide bleed effect damaging both the player and mobs.
+* **Abilities**:
+* **Blood Cascade**: Area-wide bleed effect damaging both the player and mobs and heals himself.
   * **Weapon Harvest**: Rips weapons from its own body and throws, if hit the player staggers for 4 seconds and bleeds over time for 2 seconds.
   * **Rage Chains**: Slams chained corpses at the player.
+
 * **Fight Mechanics**:
 
   * slow Constant HP loss to area bleed.
@@ -107,8 +113,10 @@
 
 * **Appearance**: Appears as the player at first. Slowly morphs into grotesque mimic.
 * **Lore**: A master con artist who tricked angels and demons alike.
-* **Abilities**:
+* **Passives**: 
+* **Past Allies**: Has a chance to morph as an npc and use whatever buff the npc has (increased by 10%) (base passive for easy and normal) 
 
+* **Abilities**:
   * **Mirror Dash**: Copies player movement style and attacks for a total of 20 seconds.
   * **Clone Storm**: Creates 4 illusions of the player.
   * **False Parry**: Fakes openings, punishes greedy attacks.
