@@ -3,7 +3,7 @@
 *A comprehensive breakdown of all major bosses encountered across the nine layers of Hell.*
 
 ## 1.  **Limbo**  *The Hollow King* (dashy!!)
-
+* **VD**: 
 * **Appearance**: A regal, ancient figure clad in broken stone armor and veiled in ethereal fog. His face is featureless, replaced by shifting masks of famous philosophers and poets.
 * **Lore**: Once a noble ruler of a peaceful age, the Hollow King chose eternal indecision over conflict. Limbo became his domain as a result of passivity.
 * **Abilities**:
@@ -23,6 +23,7 @@
 * **Lore**: A spirit cursed to constantly seduce and consume. Her voice causes hallucinations of lovers lost.
 * **passive**: Player camera will always be locked on valentina (may hinder movement combos) (base passive for easy and normal)
 * **2nd Chance**: Valentina has a chance to revive the player (1/200) but valentina will get a permanent buff (20% hp 30% illusion damage/heal) (only applicable in hard or hell difficulty) (balagtas reco)
+* **20% BELOW**: from siren she transforms more into a angler fish with sharp teeth and an esca
 
 * **Abilities**:
   * **Blinding**: Valentina will fire a projectile that covers the players screen for 10s (dodgeable)
