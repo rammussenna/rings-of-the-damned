@@ -93,7 +93,7 @@
   * Fight is visual chaos, reading her attacks is harder.
   * Punishes memorization, rewards adaptation.
 
-## 7.  **Violence** *Crucior, the Beast of Red Earth* (empty)
+## 7.  **Violence** *Crucior, the Beast of Red Earth* (manong)
 
 * **Appearance**: A hulking demon with weapons embedded in its flesh, constantly dripping blood, screaming.
 * **Lore**: Crucior is the manifestation of suffering given form. A former executioner who relished the pain he caused.
@@ -111,7 +111,7 @@
   * slow Constant HP loss to area bleed.
   * Requires aggressive movement and use of parry.
 
-## 8.  **Fraud**  *Miragio the Deceiver* (empty)
+## 8.  **Fraud**  *Miragio the Deceiver* (manong)
 
 * **Appearance**: Appears as the player at first. Slowly morphs into grotesque mimic.
 * **Lore**: A master con artist who tricked angels and demons alike.
