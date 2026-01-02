@@ -52,6 +52,7 @@
 
 ## 4. **Greed** *Archon Mammon, Lord of Excess* (dashy!!)
 
+* **VD**: similar to bounty hunter from dota 2
 * **Appearance**: Gilded demon adorned with chains, gold-plated flesh, and hollow eyes that drip molten gold.
 * **Lore**: Mammon was once an angel of structure and trade but fell when he began hoarding worship.
 * **Abilities**:
