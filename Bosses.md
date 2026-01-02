@@ -35,7 +35,7 @@
   * Charm-based mechanics that alter movement.
   * Prioritizes illusion, distraction, and regeneration.
 
-## 3.  **Gluttony** –*Gorvash, the Maw Eternal* (empty)
+## 3.  **Gluttony** –*Gorvash, the Maw Eternal* (manong)
 
 * **Appearance**: Massive, obese demon with multiple mouths across his body and stomachs that open into bloody voids.
 * **Lore**: Gorvash devoured every soul he met, even demons. His hunger created a gravitational pull of rot.
