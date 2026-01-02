@@ -3,7 +3,7 @@
 *A comprehensive breakdown of all major bosses encountered across the nine layers of Hell.*
 
 ## 1.  **Limbo**  *The Hollow King* (dashy!!)
-* **VD**: 
+* **VD**: zues epic the musical
 * **Appearance**: A regal, ancient figure clad in broken stone armor and veiled in ethereal fog. His face is featureless, replaced by shifting masks of famous philosophers and poets.
 * **Lore**: Once a noble ruler of a peaceful age, the Hollow King chose eternal indecision over conflict. Limbo became his domain as a result of passivity.
 * **Abilities**:
