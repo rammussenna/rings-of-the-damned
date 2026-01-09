@@ -79,7 +79,7 @@
   * Becomes far more dangerous under 30% HP (35% bonus damage).
   * Fight encourages aggressive parrying and defensive attacking.
 
-## 6. Heresy — Rhea, The Red Priestess
+## 6. Heresy — Rhea, The Red Priestess (charles)
 
 ### Appearance
 A burning, blindfolded figure wrapped in scorched scrolls and stitched heretical scripture. The texts constantly shift, bleeding fresh ink that drips like blood onto the ground.
@@ -115,7 +115,7 @@ A focused curse that brands the player with a bleeding sigil.
 **Purpose:** High-risk punishment for repeated mistakes, not instant death.
 
 
-## 7.  **Violence** *Crucior, the Beast of Red Earth* (manong)
+## 7.  **Violence** *Crucior, the Beast of Red Earth* (Allen)
 
 * **Appearance**: A hulking demon with weapons embedded in its flesh, constantly dripping blood, screaming.
 * **Lore**: Crucior is the manifestation of suffering given form. A former executioner who relished the pain he caused.
@@ -133,7 +133,7 @@ A focused curse that brands the player with a bleeding sigil.
   * slow Constant HP loss to area bleed.
   * Requires aggressive movement and use of parry.
 
-## 8.  **Fraud**  *Miragio the Deceiver* (manong)
+## 8.  **Fraud**  *Miragio the Deceiver* ()
 
 * **Appearance**: Appears as the player at first. Slowly morphs into grotesque mimic.
 * **Lore**: A master con artist who tricked angels and demons alike.
