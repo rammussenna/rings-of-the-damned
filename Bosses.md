@@ -79,19 +79,41 @@
   * Becomes far more dangerous under 30% HP (35% bonus damage).
   * Fight encourages aggressive parrying and defensive attacking.
 
-## 6.  **Heresy**  *Rhea,The Red Priestess* (charles)
+## 6. Heresy — Rhea, The Red Priestess
 
-* **Appearance**: A burning figure wrapped in scrolls and heretical texts, blindfolded.
-* **Lore**: Once a prophet, she began rewriting divine scripture in her own vision. Now, she writes only in blood.
-* **Abilities**:
+### Appearance
+A burning, blindfolded figure wrapped in scorched scrolls and stitched heretical scripture. The texts constantly shift, bleeding fresh ink that drips like blood onto the ground.
 
-  * **Scripture Rewrite**: randomizes player controls temporarily for 6 seconds if hit.
-  * **Hellfire Veil**: Covers arena in fire causing damage overtime if stepped in.
-  * **Mark of Blasphemy**: Reduces player HP by 50% and armor by 20% for 4 seconds if hit.
-* **Fight Mechanics**:
+### Lore
+Once a prophet entrusted with divine revelation, Rhea began correcting scripture where she believed it failed. Each revision pulled her further from truth until belief became authorship. Now, she no longer reads the word—she writes it in blood.
 
-  * Fight is visual chaos, reading her attacks is harder.
-  * Punishes memorization, rewards adaptation.
+### Abilities (Revised)
+
+#### Scripture Rewrite
+Rhea strikes with a burning sigil that alters player input logic for 4–6 seconds.
+- Movement directions may invert or rotate  
+- Dodge and attack inputs may swap  
+- Visual cues remain correct, but muscle memory fails  
+
+**Purpose:** Breaks rote play without fully disorienting the player.
+
+#### Hellfire Veil
+Rhea tears open her scrolls, causing scripture-flames to spread across the arena.
+- Fire zones persist for short, shifting intervals  
+- Standing in flame applies stacking burn damage  
+- Safe zones constantly relocate, forcing movement  
+
+**Purpose:** Area denial that prevents static play.
+
+#### Mark of Blasphemy
+A focused curse that brands the player with a bleeding sigil.
+- Max HP temporarily reduced by 30–40%  
+- Armor reduced by 20%  
+- Duration: 4 seconds  
+- Mark detonates if the player is hit again while active  
+
+**Purpose:** High-risk punishment for repeated mistakes, not instant death.
+
 
 ## 7.  **Violence** *Crucior, the Beast of Red Earth* (manong)
 
