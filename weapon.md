@@ -42,7 +42,7 @@ A curated list of weapons for **Rings of the Damned**, inspired by biblical lore
 
 ---
 
-##  Dante’s Inferno-Inspired Weapons (9 Circles)
+##  Dante’s Inferno-Inspired Weapons (9 Circles) (only obtainable when played in hell mode)
 
 | Circle    | Weapon Concept        | Description                                                            |
 | --------- | --------------------- | ---------------------------------------------------------------------- |
