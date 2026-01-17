@@ -418,3 +418,65 @@ She tests trust long before the player understands deception.
 * No confirmation until completion
 * Players can miss it entirely
 * Replays feel haunted by recognition
+
+# 🃏 Anastasia — Secret Encounter VA Script
+
+> **VA Direction**  
+> Every line must sound sincere. Never sinister. Never theatrical. Recognition only occurs after the ninth encounter.
+
+"Long road, huh? You look like you could use a rest."  
+"People pass through here all the time. Some never leave."  
+"Funny thing about wanting something… sometimes it wants you back."  
+"Careful who you trust out there. Smiles are easy."  
+
+"Don’t listen to them."  
+"They all lie. Even the ones who think they don’t."  
+"You already made the choice. You just don’t remember yet."  
+"You’ll see me again."  
+
+"Isn’t it beautiful?"  
+"It’s still alive… even here."  
+"Some things don’t need a voice to be believed."  
+"If you look away, I’ll still be here."  
+
+"Knowledge doesn’t lie. People do."  
+"Truth changes depending on who writes it."  
+"You’d be surprised how often certainty becomes fiction."  
+"You’ve already read this. Just not yet."  
+
+"Power isn’t in spells. It’s in belief."  
+"If something works, does it matter if it’s real?"  
+"Trust your instincts. They’re easier to control."  
+"I mean… easier to follow."  
+
+"Eat. You’ll feel better."  
+"Doesn’t fill you up, does it?"  
+"Funny how hunger works. Always comes back."  
+"Still… you came back for more."  
+
+"Honor is a story we tell ourselves."  
+"You fight well. Honestly."  
+"That’s why you’ll lose—if you don’t learn."  
+"Remember this stance. You’ll need it."  
+
+"Power doesn’t need to shout."  
+"Loyalty is cheaper than you think."  
+"Everyone bows eventually. Even those who swear they won’t."  
+"You’re doing wonderfully."  
+
+"Do you remember me?"  
+"You said you’d come back."  
+"Everyone leaves… eventually."  
+"Will you?"  
+
+"You spoke to me nine times."  
+"You never once asked who I was."  
+"You trusted me every time."  
+"I never lied to you."  
+"I was exactly who you believed."  
+"That’s the most convincing disguise."  
+
+"Oh… now you see me."  
+"But tell me—"  
+"Which version hurt the most?"
+
