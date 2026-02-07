@@ -149,7 +149,7 @@ A focused curse that brands the player with a bleeding sigil.
   * Dynamically learns player attack patterns.
   * Mirrors gear and ring effects in real-time.
   * copies attacks and movements
-## 9. **treason** Lucifer, the First Traitor (empty)
+## 9. **treason** Lucifer, the First Traitor (Salvador)
 
 ##  Boss Overview
 Lucifer is the final boss of *Rings of the Damned*, embodying betrayal in all its forms. Inspired by Dante’s frozen hell, he begins entombed waist deep in ice beneath the 9th Circle. His form is massive and angelic   corrupted yet divine. He uses a trident forged from shattered halos and shifts between three monstrous heads, each symbolizing a different type of betrayal:
