@@ -14,14 +14,14 @@ These are the 9 core rings tied to each of Dante’s Inferno-inspired circles of
 | Ring Name           | Circle        | Sin              | Buff (Blessing)                                               | Debuff (Curse)                                                |
 |---------------------|---------------|------------------|----------------------------------------------------------------|----------------------------------------------------------------|
 | **Ring of Limbo**   | 1st – Limbo   | Apathy / Absence | Immune to fear, stun, and confusion effects                    | XP and item gain from enemies reduced by 30%                   |
-| **Ring of Lust**    | 2nd – Lust    | Obsession        | +20% attack speed and dash distance                            | Enemies detect you from farther away                           |
-| **Ring of Gluttony**| 3rd – Gluttony| Excess           | Kills restore a portion of HP and stamina                      | Increased hunger/thirst depletion rate (if applicable)         |
+| **Ring of Lust**    | 2nd – Lust    | Obsession        | +10% attack speed and dash distance                            | Enemies detect you from farther away                           |
+| **Ring of Gluttony**| 3rd – Gluttony| Excess           | Kills restore a HP and stamina                                 | +15% Damage taken from enemies      |
 | **Ring of Greed**   | 4th – Greed   | Hoarding         | +30% more loot from all sources                       | Merchant/shop prices increase by 20%                           |
 | **Ring of Wrath**   | 5th – Wrath   | Rage             | When under 20% HP, deal +50% more damage                       | Above 20% HP, your defense is reduced by 40%                   |
 | **Ring of Heresy**  | 6th – Heresy  | Rebellion        | 30% faster mana regen and cooldown reduction                   | Max HP is permanently reduced by 60%                           |
-| **Ring of Violence**| 7th – Violence| Brutality        | +30% melee damage and crit chance                              | Enemies drop less healing and mana restoration items           |
-| **Ring of Fraud**   | 8th – Fraud   | Deception        | Illusions spawn every 15s that copy player attacks (30% dmg)   | Controls randomly invert for 4 seconds after taking damage     |
-| **Ring of Treachery**| 9th – Treachery| Betrayal        | +100% backstab and surprise attack damage                      | Front-facing attacks deal 90% less damage                      |
+| **Ring of Violence**| 7th – Violence| Brutality        | +25% melee damage and crit chance                              | Enemies drop less healing and mana restoration items           |
+| **Ring of Fraud**   | 8th – Fraud   | Deception        | Illusions spawn every 20s that copy player attacks (30% dmg)   | Controls randomly invert for 3 seconds after taking damage     |
+| **Ring of Treachery**| 9th – Treachery| Betrayal        | +100% backstab and surprise attack damage                      | Front-facing attacks deal 80% less damage                      |
 
 ---
 
