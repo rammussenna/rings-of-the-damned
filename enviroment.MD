@@ -2,14 +2,17 @@
 
 # Rings of the Damned – Circle Environments & Horror Design
 
-| Circle | Environment Description | Hazards / Gameplay | Enemy Types | Visual Theme | Sound / Horror Elements |
-| ------ | ---------------------- | ----------------- | ----------- | ------------ | ---------------------- |
-| Limbo | Hollow fields, shining castle, green meadows, fog, virtuous pagans and unbaptized souls | Low-level wandering enemies that drain sanity, occasional illusions, hidden traps | Ghostly philosophers, shadowed figures | Misty lighting, ruined stone castles, fog-covered meadows, twisted trees | Whispering voices, faint lamentations, unsettling distant echoes |
-| Lust | Dark, wind-buffeted realm, swirling tempests, flying forms of tormented lovers | Violent wind pushes player into hazards, unpredictable projectiles, grappling attacks | Tormented lovers, spectral tempests | Dark red and violet skies, swirling debris, lightning flashes | Howling wind, screams, erotic grotesque wails |
-| Gluttony | Frozen wasteland, sludge, snow, Cerberus | Slowed movement, poison/disease buildup, Cerberus mini-boss chase | Corpulent rotting figures, Cerberus | Gray skies, frozen filth, piles of refuse, dripping ice | Slurping, growls, muffled screams, dripping sludge |
-| Greed | Barren plains, misers and spendthrifts pushing massive weights | Falling weights, rolling boulders, cursed treasure drains health or sanity | Skeletal misers, animated gold constructs | Jagged cliffs, dull yellow/gray, skeletal hands reaching from ground | Groaning of laboring sinners, clinking chains, metallic echoes |
-| Wrath | River Styx, surface fights, sullen submerged | Water currents push/pull, submerged enemies drag player down | Wrathful mobs, drowned sullen | Black churning river, red lightning, fog | Screaming faces in water, splashing, muffled gurgles |
-| Heresy | City of Dis, burning crypts, flaming tombs | Fire spreads unpredictably, timed platforming | Tormented heretics, flame demons | Red-hot walls, cinders, blackened skeletal remains | Roaring flames, crackling fire, screaming souls |
-| Violence | Three rings: boiling blood river, suicide forest, burning desert | Boiling blood damages, moving forest trees attack, falling fire, mirage illusions | Murderers, suicides as tortured trees, blasphemers hallucinating | Crimson river, skeletal forest, green fire storms | Screams in boiling blood, cracking wood, fire roaring, mirage whispers |
-| Fraud | Malebolge, ten concentric trenches, grotesque punishments | Traps, illusions, shifting terrain, deception-based puzzles | Deceitful sinners, demons with twisted features | Stone pits, grotesque statues, flickering torchlight | Whispering lies, disorienting echoes, chain clanks |
-| Treachery | Frozen lake Cocytus, deepest circle, Satan at center | Slippery ice, frozen enemies breaking free, extreme difficulty boss fight | Traitors frozen in grotesque poses, Satan | Jagged black-blue ice, frozen lake, faint ethereal glow | Ice cracking, wind howls, muffled wailing, distant demonic roars |
+# Rings of the Damned – Circle Environments & Horror Design
+
+| Circle | Environment Description | Hazards / Gameplay | Visual Theme | Sound / Horror Elements |
+| ------ | ---------------------- | ----------------- | ------------ | ---------------------- |
+| Limbo | Hollow fields, shining castle, green meadows, fog, virtuous pagans and unbaptized souls | Low-level wandering hazards that drain sanity, occasional illusions, hidden traps | Misty lighting, ruined stone castles, fog-covered meadows, twisted trees | Whispering voices, faint lamentations, unsettling distant echoes |
+| Lust | Dark, wind-buffeted realm, swirling tempests, flying forms of tormented lovers | Violent wind pushes player into hazards, unpredictable projectiles, grappling attacks | Dark red and violet skies, swirling debris, lightning flashes | Howling wind, screams, erotic grotesque wails |
+| Gluttony | Frozen wasteland, sludge, snow, Cerberus | Slowed movement, poison/disease buildup, environmental hazards | Gray skies, frozen filth, piles of refuse, dripping ice | Slurping, growls, muffled screams, dripping sludge |
+| Greed | Barren plains, misers and spendthrifts pushing massive weights | Falling weights, rolling boulders, cursed treasure drains health or sanity | Jagged cliffs, dull yellow/gray, skeletal hands reaching from ground | Groaning of laboring sinners, clinking chains, metallic echoes |
+| Wrath | River Styx, surface fights, sullen submerged | Water currents push/pull, submerged hazards, knockback zones | Black churning river, red lightning, fog | Screaming faces in water, splashing, muffled gurgles |
+| Heresy | City of Dis, burning crypts, flaming tombs | Fire spreads unpredictably, timed platforming, environmental hazards | Red-hot walls, cinders, blackened skeletal remains | Roaring flames, crackling fire, screaming souls |
+| Violence | Three rings: boiling blood river, suicide forest, burning desert | Boiling blood damages, moving forest hazards, falling fire, mirage illusions | Crimson river, skeletal forest, green fire storms | Screams in boiling blood, cracking wood, fire roaring, mirage whispers |
+| Fraud | Malebolge, ten concentric trenches, grotesque punishments | Traps, illusions, shifting terrain, deception-based puzzles | Stone pits, grotesque statues, flickering torchlight | Whispering lies, disorienting echoes, chain clanks |
+| Treachery | Frozen lake Cocytus, deepest circle, Satan at center | Slippery ice, frozen hazards breaking free, extreme difficulty boss fight | Jagged black-blue ice, frozen lake, faint ethereal glow | Ice cracking, wind howls, muffled wailing, distant demonic roars |
+
