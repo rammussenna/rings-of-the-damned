@@ -5,17 +5,6 @@ This document defines the **difficulty modes** for *Rings of the Damned (ROTD)*.
 The goal is to ensure that higher difficulties fundamentally change how the game is played.
 
 ---
-
-## Global Design Philosophy
-
-* Difficulty affects **enemy intelligence, aggression, and coordination**
-* Rings grow stronger but more dangerous at higher tiers
-* Player mistakes are increasingly punished
-* Hell adapts to repetitive playstyles
-* Higher difficulty = higher tension, not artificial difficulty
-
----
-
 ## Difficulty Levels
 
 ### 1. Pilgrim (Easy)
@@ -58,13 +47,13 @@ The goal is to ensure that higher difficulties fundamentally change how the game
 
 * Standard parry and dodge timing
 * Ring debuffs fully active
-* Limited healing opportunities
+* Limited healing items
 
 **Systems**
 
 * Environmental hazards enabled
 * Ring fusion requires clear trade-offs
-* Death penalty: checkpoint reset + temporary debuff
+* Death penalty: checkpoint reset + short temporary debuff
 
 **Design Intent:** Hell is hostile, but fair. Skill is required.
 
@@ -72,7 +61,7 @@ The goal is to ensure that higher difficulties fundamentally change how the game
 
 ### 3. Penitent (Hard)
 
-**Intended for:** Experienced action players
+**Intended for:** Experienced ROTD players
 
 **Combat**
 
@@ -96,7 +85,7 @@ The goal is to ensure that higher difficulties fundamentally change how the game
 
 ---
 
-### 4. Damned (Very Hard)
+### 4. Damned (extreme)
 
 **Intended for:** Veteran players
 
@@ -140,8 +129,6 @@ The goal is to ensure that higher difficulties fundamentally change how the game
 
 **Systems**
 
-* Rings actively tempt the player with high-risk, high-reward effects
-* Ring fusion can permanently alter builds
 * Death penalty: restart layer + permanent corruption mark
 
 **Design Intent:** You are not conquering Hell — you are surviving it.
@@ -163,7 +150,7 @@ These modifiers can be enabled on any difficulty.
 ## Recommendations
 
 * Default difficulty: **Sinner**
-* **Abyssal** should remain locked until completion
+* **Abyssal** should remain locked until beating damned difficulty 
 * Difficulty changes allowed **only at sanctuaries**, never mid-combat
 
 ---
