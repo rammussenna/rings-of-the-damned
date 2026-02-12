@@ -1,13 +1,15 @@
 # The Nine Circles of Hell
 
-| # | Circle | Description |
-|---|--------|-------------|
-| **1** | **Limbo** | A place of relative calm, marked by a shining castle and green meadows, yet eternally devoid of God’s light and hope of salvation. Home to virtuous pagans and the unbaptized. |
-| **2** | **Lust** | A dark, wind-buffeted realm where souls are endlessly whipped and hurled by a howling gale, reflecting how they were swept away by passion in life. |
-| **3** | **Gluttony** | A frozen wasteland of slush, putrid rain, and snow. Sinners wallow endlessly in filth, tormented by the three-headed beast Cerberus. |
-| **4** | **Greed** | A barren expanse where misers and spendthrifts eternally push massive weights—symbols of material excess—against one another in a futile struggle. |
-| **5** | **Wrath** | The foul waters of the River Styx. The wrathful violently clash on the surface, while the sullen lie submerged below, choking on their suppressed rage. |
-| **6** | **Heresy** | Within the flaming walls of the City of Dis, heretics are sealed in burning crypts, with the intensity of the fire reflecting the gravity of their false beliefs. |
-| **7** | **Violence** | Divided into three rings: a river of boiling blood for violence against others; a twisted forest where suicides exist as tortured trees preyed upon by harpies; and a burning desert beneath falling fire for those violent against God, nature, and art. |
-| **8** | **Fraud** | Known as **Malebolge** (the Evil Pits), a vast stone funnel split into ten concentric trenches, each inflicting grotesque punishments tailored to specific acts of deceit. |
-| **9** | **Treachery** | The deepest circle: the frozen lake **Cocytus**. Traitors are encased in ice, with the worst offenders imprisoned at the center of the Earth, where Satan eternally devours Judas Iscariot. |
+# Rings of the Damned – Circle Environments & Horror Design
+
+| Circle | Environment Description | Hazards / Gameplay | Enemy Types | Visual Theme | Sound / Horror Elements |
+| ------ | ---------------------- | ----------------- | ----------- | ------------ | ---------------------- |
+| Limbo | Hollow fields, shining castle, green meadows, fog, virtuous pagans and unbaptized souls | Low-level wandering enemies that drain sanity, occasional illusions, hidden traps | Ghostly philosophers, shadowed figures | Misty lighting, ruined stone castles, fog-covered meadows, twisted trees | Whispering voices, faint lamentations, unsettling distant echoes |
+| Lust | Dark, wind-buffeted realm, swirling tempests, flying forms of tormented lovers | Violent wind pushes player into hazards, unpredictable projectiles, grappling attacks | Tormented lovers, spectral tempests | Dark red and violet skies, swirling debris, lightning flashes | Howling wind, screams, erotic grotesque wails |
+| Gluttony | Frozen wasteland, sludge, snow, Cerberus | Slowed movement, poison/disease buildup, Cerberus mini-boss chase | Corpulent rotting figures, Cerberus | Gray skies, frozen filth, piles of refuse, dripping ice | Slurping, growls, muffled screams, dripping sludge |
+| Greed | Barren plains, misers and spendthrifts pushing massive weights | Falling weights, rolling boulders, cursed treasure drains health or sanity | Skeletal misers, animated gold constructs | Jagged cliffs, dull yellow/gray, skeletal hands reaching from ground | Groaning of laboring sinners, clinking chains, metallic echoes |
+| Wrath | River Styx, surface fights, sullen submerged | Water currents push/pull, submerged enemies drag player down | Wrathful mobs, drowned sullen | Black churning river, red lightning, fog | Screaming faces in water, splashing, muffled gurgles |
+| Heresy | City of Dis, burning crypts, flaming tombs | Fire spreads unpredictably, timed platforming | Tormented heretics, flame demons | Red-hot walls, cinders, blackened skeletal remains | Roaring flames, crackling fire, screaming souls |
+| Violence | Three rings: boiling blood river, suicide forest, burning desert | Boiling blood damages, moving forest trees attack, falling fire, mirage illusions | Murderers, suicides as tortured trees, blasphemers hallucinating | Crimson river, skeletal forest, green fire storms | Screams in boiling blood, cracking wood, fire roaring, mirage whispers |
+| Fraud | Malebolge, ten concentric trenches, grotesque punishments | Traps, illusions, shifting terrain, deception-based puzzles | Deceitful sinners, demons with twisted features | Stone pits, grotesque statues, flickering torchlight | Whispering lies, disorienting echoes, chain clanks |
+| Treachery | Frozen lake Cocytus, deepest circle, Satan at center | Slippery ice, frozen enemies breaking free, extreme difficulty boss fight | Traitors frozen in grotesque poses, Satan | Jagged black-blue ice, frozen lake, faint ethereal glow | Ice cracking, wind howls, muffled wailing, distant demonic roars |
