@@ -2,8 +2,6 @@
 
 # Rings of the Damned – Circle Environments & Horror Design
 
-# Rings of the Damned – Circle Environments & Horror Design
-
 | Circle | Environment Description | Hazards / Gameplay | Visual Theme | Sound / Horror Elements |
 | ------ | ---------------------- | ----------------- | ------------ | ---------------------- |
 | Limbo | Hollow fields, shining castle, green meadows, fog, virtuous pagans and unbaptized souls | Low-level wandering hazards that drain sanity, occasional illusions, hidden traps | Misty lighting, ruined stone castles, fog-covered meadows, twisted trees | Whispering voices, faint lamentations, unsettling distant echoes |
