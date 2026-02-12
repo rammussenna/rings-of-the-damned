@@ -1,61 +1,80 @@
 #  Minos – Judge of the Damned
 
-> **Type**: Optional Side Character / Secret Boss  
-> **Location**: The Pyramid of Balance (appears after Gluttony)  
-> **Function**: Ring Fusion System & Optional Endgame Boss  
-> **Theme**: Irreversible consequence, corruption, sacrifice
+# Minos – Ring Fusion Master & Optional Endgame Boss
+
+**Type:** Optional Side Character / Secret Boss  
+**Location:** Pyramid of Balance (unlocked after Gluttony)  
+**Function:** Ring Fusion System & Optional Endgame Boss  
+**Theme:** Irreversible consequence, corruption, sacrifice  
+
+> **Note:** Ring Fusion system is still under development. Mechanics are subject to change.
 
 ---
-ANYTHING RING FUSION IS STILL UNDER WORKS NOT OFFICIAL!
-##  Overview
 
-Minos serves as the **Ring Fusion Master**, offering player the ability to fuse rings using rare sacrifices. Over time, his dialogue becomes darker, hinting at deeper costs behind tampering with sin. Eventually, player may choose to betray or destroy him  permanently altering game mechanics and endings.
+## Overview
+
+Minos is the Ring Fusion Master, offering players the ability to **fuse rings** using rare sacrifices. Over time, his dialogue becomes darker, hinting at the true costs behind tampering with sin.  
+
+Players can either **cooperate with Minos** for long-term benefits or **betray/destroy him**, permanently altering game mechanics and endings.
 
 ---
 
-##  Ring Fusion System
+## Ring Fusion System
 
-Minos allows ring fusion at his throne using the following cost types:
-- **Items** (rare loot or offerings from Hell)
-- **HP** (permanent max HP sacrifice)
-- **Sin Fragments** (gathered from defeated mini-bosses)
+### Activation
+- Fusion takes place at Minos’ throne.
+- Costs for fusion include:
+  - **Items:** Rare loot or offerings from Hell.
+  - **HP:** Permanent maximum HP sacrifice.
+  - **Sin Fragments:** Collected from defeated mini-bosses.
 
-Each fusion:
-- Creates hybrid rings with both buffs and new risks
-- Is **permanent and cannot be reversed**
-- Unlocks new combat styles or passive effects
-- May modify how Hell responds to the player (e.g. spawn rates, enemy aggression, visual hallucinations)
+### Fusion Effects
+- Creates **hybrid rings** with new buffs and risks.
+- **Permanent:** Cannot be reversed.
+- Unlocks **new combat styles or passive effects**.
+- May modify Hell’s behavior:
+  - Increased enemy spawn rates.
+  - Heightened aggression.
+  - Visual hallucinations or environmental shifts.
 
 ---
 
 ## Player Choice: Leave or Fight Minos
 
 ### Normal Path
-- Use Minos to access fusion across your playthrough.
-- Each visit reveals more lore about the hierarchy of Hell, ring origins, and your place in it.
+- Use Minos for ring fusion throughout the playthrough.
+- Each visit reveals deeper lore:
+  - Hierarchy of Hell.
+  - Origins of rings.
+  - Player’s role in the infernal hierarchy.
 - Minos remains passive unless provoked.
 
-###  Destruction Path (Optional Secret Boss)
-- **Trigger**: Strike the statue of Minos using a fully upgraded Cruciform Blade.
-- **Consequence**: Ring Fusion becomes permanently disabled for the rest of the playthrough.
-- **Boss Fight**: Minos awakens as a **massive marble judge**, changing phases based on each of the 9 Circles of Hell:
+### Destruction Path (Optional Secret Boss)
+- **Trigger:** Strike Minos’ statue with a fully upgraded Cruciform Blade.
+- **Consequence:** Ring Fusion becomes permanently disabled.
+- **Boss Fight:** Minos awakens as a massive marble judge.
+  - Changes phases based on **the 9 Circles of Hell**.
+  - **Ring of Judgment Traits:**
+    - Absorbs fused or broken rings to grow in power.
+    - Gains massive buffs: damage, speed, immunity to sin effects.
+    - Can permanently destroy specific rings or sin sources.
+    - Cleanses entire levels, removing mechanics.
+    - Overuse leads to the **Madness Ending**.
 
-### Ring of Judgment — Traits:
-- **Absorbs** fused or broken rings to grow in power.
-- Grants massive buffs (damage, speed, immunity to sin effects).
-- Can permanently **destroy** specific rings or sin sources.
-- **Cleanses entire levels**, removing mechanics 
-- Leads toward the **Madness Ending** if overused.
+---
 
-### Madness Ending:
-- If Ring of Judgment consumes too many rings:
-  - The world distorts.
-  - Dialogue and environments shift.
-  - Player begins hallucinating prior choices and NPCs.
-  - Ending: .......
-##  Core Gameplay Loop It Adds
+## Madness Ending
+- Triggered if the **Ring of Judgment consumes too many rings**.
+- **Effects:**
+  - World visually distorts.
+  - Dialogue and environments shift unpredictably.
+  - Player begins hallucinating past choices and NPCs.
+- Represents the ultimate cost of excessive powerlust.
 
-- **Risk vs Reward**: Choose long-term utility (Fusion) or ultimate power (Judgment).
-- **Replayability**: Multiple builds and outcomes depending on player choices.
-- **Thematic Integration**: Player’s morality and powerlust physically reshape Hell.
-- **Lore Building**: Ties ring system into narrative, foreshadowing consequences.
+---
+
+## Core Gameplay Loop Added by Minos
+- **Risk vs Reward:** Long-term utility (fusion) vs ultimate immediate power (judgment).  
+- **Replayability:** Multiple builds and outcomes depending on player choices.  
+- **Thematic Integration:** Player morality and powerlust physically reshape Hell.  
+- **Lore Building:** Ties the ring system directly into narrative and foreshadows consequences of sin manipulation.
