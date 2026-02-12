@@ -12,7 +12,7 @@ This table shows all achievements players must complete to unlock weapons in *Ri
 
 | Achievement | Unlock Condition / Description | Weapon Reward |
 | ----------- | ---------------------------- | ------------- |
-| Protector of Souls | Dont kill any npc's and dont damage judas when transformed into a pass allies | Ribs of Adam |
+| Protector of Souls | Dont kill any npc's and dont damage judas when transformed into a past allie | Ribs of Adam |
 | Eden's Trial | Survive a burning tiles challenge for 60 seconds without dying. | Flaming Sword of Eden |
 | Angel's Trial | Complete a timed mobility course using only jumps, dashes, and flight boosts. | Michael’s Wings |
 | Choir of the Damned | Defeat the Choir miniboss in limbo without taking any damage. | Trumpet of Judgment |
