@@ -21,5 +21,5 @@ This table shows achievements players must complete to unlock weapons in *Rings 
 | Circle of Suffering | Survive a Hell-mode encounter using only Crown of Thorns until all enemies are defeated. | Crown of Thorns | Circle 5 – Wrath |
 | Divine Archive | Find and interact with all Ten Commandments tablets in a single playthrough. | Ten Commandments | Circle 6 – Heresy |
 | Forbidden Library | Collect all pages of the cursed tome Ink of the Scribe. | Ink of the Scribe | Circle 7 – Violence |
-| Hell-mode Circle Bosses | Defeat each Circle boss in Hell-mode (Limbo → Treachery). | Limbo: Forgotten Blade, Lust: Whip of Desire, Gluttony: Maw Gauntlets, Greed: Gilded Chainaxe, Wrath: Bloody Brass Knuckles, Heresy: Blasphemer’s Brand, Violence: Bloodletter Pike, Fraud: Mirror Blade, Treachery: Dagger of Judas | Circles 1–9 |
-| Eden’s Guardian | Beat the final boss on Very Hard difficulty without dying. | SBR (Single Bullet Rifle) | Final Boss / Damned Difficulty |
+| Damned | Defeat each Circle boss in Damned mode (Limbo → Treachery). | Limbo: Forgotten Blade, Lust: Whip of Desire, Gluttony: Maw Gauntlets, Greed: Gilded Chainaxe, Wrath: Bloody Brass Knuckles, Heresy: Blasphemer’s Brand, Violence: Bloodletter Pike, Fraud: Mirror Blade, Treachery: Dagger of Judas | Circles 1–9 |
+| Eden’s Guardian | Beat the final boss on Very Hard difficulty without dying. | SBR (Single Bullet Rifle) | Final Boss / Nightmare Difficulty |
