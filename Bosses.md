@@ -34,7 +34,7 @@ Limbo punishes indecision.
 * **20% BELOW**: from siren she transforms more into a angler fish with sharp teeth and an esca
 
 * **Abilities**:
-  * **Blinding**: Valentina will fire a projectile that covers the players screen for 10s (dodgeable)
+  * **Blinding**: Valentina will fire a projectile that covers the players screen for 4s (dodgeable)
   * **Siren's Echo**: Fires charm projectiles that cause player to not be able to move for 2 seconds and pulls player to the siren.
   * **Mirage Split**: Splits into three mirages. All must be killed quickly or she regenerates health.
   * **Temptation Bloom**: Area-of-effect pulse that lowers player defenses temporarily (cannot be dodged).
@@ -57,6 +57,8 @@ Limbo punishes indecision.
 
   * Player must destroy stomach cores that open intermittently.
   * Arena fills with bile, slowing movement and reducing armor.
+  * Hunger Threshold
+If player uses healing items, Gorvash gains stacking damage.
 
 ## 4. **Greed** *Archon Mammon, Lord of Excess* (dashy!!)
 
@@ -86,7 +88,13 @@ Limbo punishes indecision.
 
   * Becomes far more dangerous under 30% HP (35% bonus damage).
   * Fight encourages aggressive parrying and defensive attacking.
+  * Heat Gauge System
+The longer the fight goes, the hotter the arena becomes.
 
+At max heat:
+
+Dodging leaves flame trails.
+Parrying reduces heat temporarily.
 ## 6. Heresy — Rhea, The Red Priestess (charles)
 
 ### Appearance
@@ -129,7 +137,7 @@ A focused curse that brands the player with a bleeding sigil.
 * **Lore**: Crucior is the manifestation of suffering given form. A former executioner who relished the pain he caused.
 * **Passives** 
 * **Past Victims**: If player dies crucior will spawn a mob based on how many times the player died and may have a chance to have a mob similar to the player 1/189 (base passive for easy and normal)
-* **Lives of the suffering souls**: Crucior has a set of 30 minions the more times you die (from the previous rings) Five more minions gets added to the crowd, It also buffs crucior's Defense by 10% and attack speed by 15% (only applicable in hard and hell difficulty)
+* **Lives of the suffering souls**: Crucior has a set of 30 minions the more times you die (from the previous rings) Five more minions gets added to the crowd, It also buffs crucior's Defense by 10% and attack speed by 15% (only applicable in hard and hell difficulty) 
 
 * **Abilities**:
 * **Blood Cascade**: Area-wide bleed effect damaging both the player and mobs and heals himself.
