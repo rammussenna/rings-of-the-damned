@@ -16,7 +16,8 @@
 
   * Uses illusions to disguise real attacks.
   * The arena spawns masks that give you either a buff or debuf
-    White Marble Mask = Buff
+  
+  White Marble Mask = Buff
 
 Cracked Obsidian Mask = Debuff
 
