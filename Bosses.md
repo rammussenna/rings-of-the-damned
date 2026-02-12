@@ -22,6 +22,9 @@
 Cracked Obsidian Mask = Debuff
 
 Add a “True King” glow when the real body attacks (subtle, not obvious).
+If the player waits too long (passive play), the King gains stacking damage.
+
+Limbo punishes indecision.
 ## 2.  **Lust** *Valentina, the Siren* (charles)
 
 * **Appearance**: Tall, alluring humanoid with semi-liquid skin that ripples with every movement.
