@@ -16,7 +16,11 @@
 
   * Uses illusions to disguise real attacks.
   * The arena spawns masks that give you either a buff or debuf
-    
+    White Marble Mask = Buff
+
+Cracked Obsidian Mask = Debuff
+
+Add a “True King” glow when the real body attacks (subtle, not obvious).
 ## 2.  **Lust** *Valentina, the Siren* (charles)
 
 * **Appearance**: Tall, alluring humanoid with semi-liquid skin that ripples with every movement.
