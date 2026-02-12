@@ -2,14 +2,6 @@
 
 This table shows all achievements players must complete to unlock weapons in *Rings of the Damned*. Each achievement is a **two-step unlock**: complete the achievement → weapon becomes available.
 
-# Rings of the Damned – Achievements, Weapon Unlocks & Locations
-
-This table shows achievements players must complete to unlock weapons in *Rings of the Damned*, with the location or Circle where each weapon can be obtained.
-
-# Rings of the Damned – Achievements & Weapon Unlocks
-
-This table shows all achievements players must complete to unlock weapons in *Rings of the Damned*. Each achievement is a **two-step unlock**: complete the achievement → weapon becomes available.
-
 | Achievement | Unlock Condition / Description | Weapon Reward |
 | ----------- | ---------------------------- | ------------- |
 | Protector of Souls | Dont kill any npc's and dont damage judas when transformed into a past allie | Ribs of Adam |
