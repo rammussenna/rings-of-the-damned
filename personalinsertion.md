@@ -90,10 +90,10 @@
   * **Lust**: Sultry reds, dim candlelight, faint whispers.
   * **Gluttony**: Overflowing shelves, cluttered, slightly grotesque.
   * **Greed**: Gold accents, heavy locks, opulent display.
-  * **Sloth**: Sparse, slow ambient animations, relaxed atmosphere.
   * **Wrath**: Darkened room, subtle cracks in walls, tension in shadows.
   * **Heresy**: Twisted iconography, warped textures.
   * **Violence**: Scarred walls, old weapons, faint blood stains.
+  * **Fraud**: A crooked, dimly lit space cluttered with odd trinkets and mirrors that warp perception.
   * **Treachery**: Cold, metallic, minimal lighting, eerie quiet.
 
 * **Mechanics**:
@@ -132,11 +132,37 @@
 * Multi-layer shops strengthen narrative, interconnect layers, and provide player agency.
 * Integrates lore, tutorial elements, and meta consequences seamlessly into ROTD.
 
+# The Fool – Enemy Unit
 
+## Overview
+**The Fool** is a gaunt, skeletal unit known across the 9 Rings as a symbol of unheeded passion and tragic folly. Originally a soul caught between Wrath and Lust, he fell in love blindly, was toyed with, and ultimately sacrificed himself for nothing. Now, he exists within the Circle of Wrath as a disposable target, both a gameplay tool and a narrative echo of his past.
 
+## Purpose
+- Provides low-risk combat practice after defeating a boss.  
+- Allows players to test combos, timing, weapon mechanics, and skill setups.  
+- Serves as a subtle lore element, reinforcing the themes of folly, sacrifice, and unrequited desire.
 
-The Fool
-Description: A scrawny, boney unit designed as a disposable target. Players can use it as a punching bag or practice dummy within the Circle of Wrath.
-Purpose: Provides low-risk combat practice after defeating a boss, allowing players to test combos, timing, and weapon mechanics.
-Behavior: Minimal aggression or defensive AI; primarily exists to absorb damage and provide visual feedback.
+## Behavior
+- Minimal aggression.  
+- No defensive AI or evasive maneuvers.  
+- Primarily absorbs damage, providing visual and mechanical feedback.  
+- Staggers and reacts exaggeratedly to hits, reflecting the futility of his past sacrifice.
 
+## Stats (Example)
+| Attribute          | Value             |
+|------------------|----------------|
+| Health             | Very low        |
+| Speed              | Slow            |
+| Aggression         | None            |
+| Damage             | None            |
+| Hit Feedback       | High            |
+
+## Lore Integration
+- Formerly a soul of Wrath and Lust, now known as **The Fool**.  
+- Represents unheeded passion, sacrifice, and the inevitability of being used.  
+- Encountering him is both a gameplay mechanic and a narrative reminder of the 9 Rings’ cruel cycles.
+
+## Notes for Developers
+- Place in the Circle of Wrath arena post-boss encounter.  
+- Ensure visual feedback (flinching, staggering) is clear to the player.  
+- Optional: Add environmental cues or subtle audio to hint at his tragic backstory.  
