@@ -2,8 +2,7 @@
 
 *A comprehensive breakdown of all major bosses encountered across the nine layers of Hell.*
 
-## 1.  **Limbo**  *The Hollow King* (dashy!!)
-* **VD**: zues epic the musical
+## 1.  **Limbo**  *The Hollow King* 
 * **Appearance**: A regal, ancient figure clad in broken stone armor and veiled in ethereal fog. His face is featureless, replaced by shifting masks of famous philosophers and poets.
 * **Lore**: Once a noble ruler of a peaceful age, the Hollow King chose eternal indecision over conflict. Limbo became his domain as a result of passivity.
 * **Abilities**:
@@ -25,7 +24,7 @@ Add a “True King” glow when the real body attacks (subtle, not obvious).
 If the player waits too long (passive play), the King gains stacking damage.
 
 Limbo punishes indecision.
-## 2.  **Lust** *Valentina, the Siren* (charles)
+## 2.  **Lust** *Valentina, the Siren* 
 
 * **Appearance**: Tall, alluring humanoid with semi-liquid skin that ripples with every movement.
 * **Lore**: A spirit cursed to constantly seduce and consume. Her voice causes hallucinations of lovers lost.
@@ -44,7 +43,7 @@ Limbo punishes indecision.
   * Charm-based mechanics that alter movement.
   * Prioritizes illusion, distraction, and regeneration.
 
-## 3.  **Gluttony** –*Gorvash, the Maw Eternal* (manong)
+## 3.  **Gluttony** –*Gorvash, the Maw Eternal* 
 
 * **Appearance**: Massive, obese demon with multiple mouths across his body and stomachs that open into bloody voids.
 * **Lore**: Gorvash devoured every soul he met, even demons. His hunger created a gravitational pull of rot.
@@ -60,9 +59,8 @@ Limbo punishes indecision.
   * Hunger Threshold
 If player uses healing items, Gorvash gains stacking damage.
 
-## 4. **Greed** *Archon Mammon, Lord of Excess* (dashy!!)
+## 4. **Greed** *Archon Mammon, Lord of Excess* 
 
-* **VD**: similar to bounty hunter from dota 2
 * **Appearance**: Gilded demon adorned with chains, gold-plated flesh, and hollow eyes that drip molten gold.
 * **Lore**: Mammon was once an angel of structure and trade but fell when he began hoarding worship.
 * **Abilities**:
@@ -75,7 +73,7 @@ If player uses healing items, Gorvash gains stacking damage.
   * Richer players are punished more.
   * Loot is bait, grabbing it powers him up unless cleansed first via holy water sacrificing the healing.
   * the more gold you have (strictly in greed) the higher the attributions
-## 5. **Wrath**  *Agramor, the Flame-Tethered* (empty)
+## 5. **Wrath**  *Agramor, the Flame-Tethered*
 
 * **Appearance**: A burning knight wrapped in iron chains and molten plates, missing an arm replaced with a flail.
 * **Lore**: Agramor was a fallen general whose fury consumed entire cities. He now burns forever in his rage.
@@ -95,7 +93,7 @@ At max heat:
 
 Dodging leaves flame trails.
 Parrying reduces heat temporarily.
-## 6. Heresy — Rhea, The Red Priestess (charles)
+## 6. Heresy — Rhea, The Red Priestess 
 
 ### Appearance
 A burning, blindfolded figure wrapped in scorched scrolls and stitched heretical scripture. The texts constantly shift, bleeding fresh ink that drips like blood onto the ground.
@@ -131,7 +129,7 @@ A focused curse that brands the player with a bleeding sigil.
 **Purpose:** High-risk punishment for repeated mistakes, not instant death.
 
 
-## 7.  **Violence** *Crucior, the Beast of Red Earth* (Allen)
+## 7.  **Violence** *Crucior, the Beast of Red Earth* 
 
 * **Appearance**: A hulking demon with weapons embedded in its flesh, constantly dripping blood, screaming.
 * **Lore**: Crucior is the manifestation of suffering given form. A former executioner who relished the pain he caused.
@@ -149,7 +147,7 @@ A focused curse that brands the player with a bleeding sigil.
   * slow Constant HP loss to area bleed.
   * Requires aggressive movement and use of parry.
 
-## 8.  **Fraud**  *Miragio the Deceiver* ()
+## 8.  **Fraud**  *Miragio the Deceiver* 
 
 * **Appearance**: Appears as the player at first. Slowly morphs into grotesque mimic.
 * **Lore**: A master con artist who tricked angels and demons alike.
@@ -165,7 +163,7 @@ A focused curse that brands the player with a bleeding sigil.
   * Dynamically learns player attack patterns.
   * Mirrors gear and ring effects in real-time.
   * copies attacks and movements
-## 9. **treason** Lucifer, the First Traitor (Salvador)
+## 9. **treason** Lucifer, the First Traitor 
 
 ##  Boss Overview
 Lucifer is the final boss of *Rings of the Damned*, embodying betrayal in all its forms. Inspired by Dante’s frozen hell, he begins entombed waist deep in ice beneath the 9th Circle. His form is massive and angelic   corrupted yet divine. He uses a trident forged from shattered halos and shifts between three monstrous heads, each symbolizing a different type of betrayal:
